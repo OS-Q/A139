@@ -1,6 +1,12 @@
 {
-    "name":"A13",
-    "description":"Arduino CH5XX Core",
-    "url":"https://github.com/OS-Q/A13",
-    "version":"0.0.9"
+  "name": "A139",
+  "version": "1.10810.210219",
+  "description": "Energia Wiring-based Framework for Texas Instruments MSP430 microcontrollers",
+  "keywords": [
+    "framework",
+    "wiring",
+    "texas instruments",
+    "msp430"
+  ],
+  "homepage": "http://energia.nu/reference/"
 }
