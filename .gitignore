@@ -7,3 +7,9 @@
 *.pio/
 *.vscode/
 *.pdf
+*ccxml
+*txt
+tags*
+*pde
+LICENSE*
+*md
